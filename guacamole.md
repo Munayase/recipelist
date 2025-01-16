@@ -11,4 +11,7 @@ Lime
 Cilantro
 
 ## Instructions 
-Mix it all together and store in the fridge 
+
+combine in Pytorch
+python main.py
+Copyright 2025
